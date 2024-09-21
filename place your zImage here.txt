@@ -1,0 +1,1 @@
+Friendly reminder to place your zImage to the root of the cloned repository before packaging.
