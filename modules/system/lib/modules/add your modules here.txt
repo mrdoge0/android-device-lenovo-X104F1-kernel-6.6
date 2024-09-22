@@ -1,0 +1,2 @@
+A friendly reminder to add your kernel modules here.
+Without them, the tablet will be stuck in the Lenovo logo.
