@@ -13,7 +13,7 @@ properties() { '
 kernel.string=X104F1 Unofficial 6.6 Backport by mrdoge0 @ github
 do.devicecheck=1
 do.modules=1
-do.systemless=1
+do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=X104F1
@@ -21,7 +21,7 @@ device.name2=TB-X104F1
 device.name3=x104f1
 device.name4=X104F
 device.name5=x104f
-supported.versions=
+supported.versions=8.1.0 - 14
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
