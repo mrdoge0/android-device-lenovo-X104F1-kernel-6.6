@@ -21,7 +21,7 @@ device.name2=TB-X104F1
 device.name3=x104f1
 device.name4=X104F
 device.name5=x104f
-supported.versions=8.1.0 - 14
+supported.versions=8.1.0 - 15
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
